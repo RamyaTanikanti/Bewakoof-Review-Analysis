@@ -1,2 +1,2 @@
-# Bewakoof-Review-Analysis
- Analyzing reviews by extracting different entities using Named-Entity-Recognition.
+# Stock News Analysis
+ Extracting stock news from FinViz and finding the performance through sentiment analysis.
