@@ -1,2 +1,2 @@
 # Stock News Analysis
- Extracting stock news from FinViz and finding the performance through sentiment analysis.
+ Extracting stock news from FinViz and analyzing stock performance by applying NLP techniques on financial news.
